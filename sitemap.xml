@@ -4,8 +4,8 @@
 <url> <loc>http://docs.vanillaforums.com/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/api/categories</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/api/comments</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/api/forum-administration</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/api/discussions</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/api/forum-administration</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/api</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/api/moderation</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/api/smart-id</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -26,10 +26,10 @@
 <url> <loc>http://docs.vanillaforums.com/features</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/theming/css</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/theming/hooks</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/quickstart</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/theming/views</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/theming/quickstart</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/badges/adding-and-editing-badges</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/theming</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/badges/giving-and-requesting-badges</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/badges</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/gigya</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
