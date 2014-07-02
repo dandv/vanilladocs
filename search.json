@@ -350,7 +350,7 @@
     "categories": [
       "Addons"
     ],
-    "content": "!%5BExample%20of%20dashboard%20page%5D(images/dashboard.png)%0A%0A##%20What%20Are%20Vanilla%20Statistics?%0A%0AThe%20Vanilla%20Statistics%20plugin%20allows%20forum%20administrators%20to%20review%20vital%20activity%20on%20their%20forums%20over%20a%20specific%20time%20periods.%0A%0A##%20How%20to%20use%20Vanilla%20Statistics%0A%0AThe%20Vanilla%20Statistics%20plugin%20is%20a%20display%20layer%20for%20the%20data%20that%20is%20sent%20to%20our%20analytics%20server.%20%20We%20generate%20and%20present%20you%20with%20the%20statistics%20in%20a%20graphical%20format%20for%20the%20following:%0A%0A*Number%20of%20page%20views%0A*Number%20of%20new%20users%0A*Number%20of%20new%20discussions%0A*Number%20of%20new%20comments%0A%0AUsing%20the%20tabs%20at%20the%20top,%20you%20can%20view%20daily%20or%20monthly%20stats.%20Also%20by%20clicking%20on%20the%20coloured%20boxes%20below,%20you%20can%20isolate%20the%20data%20to%20one%20specific%20data%20set,%20such%20as%20number%20of%20new%20discussions.%0A%0AVanilla%20Statistics%20will%20also%20create%20a%20rolling%20table%20of%20data%20on%20the%20following:%0A%0A*Most%20Active%20Users%0A*Most%20popular%20discussions%20discussions%0A%0AThis%20too%20can%20be%20modified%20by%20changing%20the%20time%20period,%20you%20select%20to%20view."
+    "content": "##%20What%20Are%20Vanilla%20Statistics?%0A%0AThe%20Vanilla%20Statistics%20plugin%20allows%20forum%20administrators%20to%20review%20vital%20activity%20on%20their%20forums%20over%20a%20specific%20time%20periods.%0A%0A!%5BExample%20of%20dashboard%20page%5D(images/dashboard.png)%0A%0A%0A##%20How%20to%20use%20Vanilla%20Statistics%0A%0AThe%20Vanilla%20Statistics%20plugin%20is%20a%20display%20layer%20for%20the%20data%20that%20is%20sent%20to%20our%20analytics%20server.%20%20We%20generate%20and%20present%20you%20with%20the%20statistics%20in%20a%20graphical%20format%20for%20the%20following:%0A%0A*%20Number%20of%20page%20views%0A*%20Number%20of%20new%20users%0A*%20Number%20of%20new%20discussions%0A*%20Number%20of%20new%20comments%0A%0AUsing%20the%20tabs%20at%20the%20top,%20you%20can%20view%20daily%20or%20monthly%20stats.%20Also%20by%20clicking%20on%20the%20coloured%20boxes%20below,%20you%20can%20isolate%20the%20data%20to%20one%20specific%20data%20set,%20such%20as%20number%20of%20new%20discussions.%0A%0AVanilla%20Statistics%20will%20also%20create%20a%20rolling%20table%20of%20data%20on%20the%20following:%0A%0A*%20Most%20Active%20Users%0A*%20Most%20popular%20discussions%20discussions%0A%0AThis%20too%20can%20be%20modified%20by%20changing%20the%20time%20period,%20you%20select%20to%20view."
   }, {
     "url": "/addons/warnings-and-notes/adding-and-editing-user-notes",
     "title": "Adding and Editing User Notes",
@@ -603,6 +603,14 @@
     ],
     "content": ""
   }, {
+    "url": "/features/mobile",
+    "title": "Mobile",
+    "categories": [
+      "Features", 
+      "Mobile"
+    ],
+    "content": ""
+  }, {
     "url": "/features/moderation",
     "title": "Moderation",
     "categories": [
@@ -626,14 +634,6 @@
       "Setup"
     ],
     "content": "##%20Welcome%20to%20Vanilla"
-  }, {
-    "url": "/features/mobile",
-    "title": "Mobile",
-    "categories": [
-      "Features", 
-      "Mobile"
-    ],
-    "content": ""
   }, {
     "url": "/features/sso",
     "title": "Single Sign-On",
