@@ -53,8 +53,8 @@
 <url> <loc>http://docs.vanillaforums.com/developers/configuration/using</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/developers/contributing/coding-standard</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/developers/contributing</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/ajax</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/developers/contributing/standards</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/developers/framework/ajax</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/developers/framework/assets</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/developers/framework/controllers</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/developers/framework/database</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
