@@ -45,8 +45,8 @@
 <url> <loc>http://docs.vanillaforums.com/addons/reactions</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/reporting</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/statistics</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/adding-and-editing-user-notes</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/warnings-and-notes</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/adding-and-editing-user-notes</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/upgrading-from-warnings</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/warning-a-user</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
