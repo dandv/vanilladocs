@@ -1,10 +1,5 @@
 {
   "docs": [{
-    "url": "/404.html",
-    "title": "",
-    "categories": [],
-    "content": "%3C!doctype%20html%3E%0A%3Chtml%20lang=%22en%22%3E%0A%20%20%3Chead%3E%0A%20%20%20%20%3Cmeta%20charset=%22utf-8%22%3E%0A%20%20%20%20%3Ctitle%3ENot%20found,%20eh?%3C/title%3E%0A%20%20%20%20%3Cstyle%3E%0A%20%20%20%20%20%20html%20%7B%0A%20%20%20%20%20%20%20%20height:%20100%25;%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20body%20%7B%0A%20%20%20%20%20%20%20%20display:%20table;%0A%20%20%20%20%20%20%20%20width:%20100%25;%0A%20%20%20%20%20%20%20%20height:%20100%25;%0A%20%20%20%20%20%20%20%20margin:%200;%0A%20%20%20%20%20%20%20%20font-family:%20Helvetica,%20Arial,%20sans-serif;%0A%20%20%20%20%20%20%20%20color:%20#fff;%0A%20%20%20%20%20%20%20%20background-color:%20#0291db;%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20h1%20%7B%0A%20%20%20%20%20%20%20%20display:%20table-cell;%0A%20%20%20%20%20%20%20%20margin:%200;%0A%20%20%20%20%20%20%20%20font-size:%20128px;%0A%20%20%20%20%20%20%20%20font-weight:%20300;%0A%20%20%20%20%20%20%20%20text-align:%20center;%0A%20%20%20%20%20%20%20%20vertical-align:%20middle;%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%3C/style%3E%0A%20%20%3C/head%3E%0A%20%20%3Cbody%3E%0A%20%20%20%20%3Ch1%3E404%3C/h1%3E%0A%20%20%3C/body%3E%0A%3C/div%3E%0A"
-  }, {
     "url": "/",
     "title": "Vanilla Forums Documentation",
     "categories": [],
