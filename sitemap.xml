@@ -32,9 +32,9 @@
 <url> <loc>http://docs.vanillaforums.com/addons/badges/adding-and-editing-badges</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/badges/giving-and-requesting-badges</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/badges</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/gigya</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/groups</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/groups/managing-groups</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/addons/gigya</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/pockets</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/ranks/adding-and-editing-ranks</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/ranks/applying-ranks-over sso</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -77,10 +77,10 @@
 <url> <loc>http://docs.vanillaforums.com/features/categories</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/features/embedding</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/features/mobile</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/moderation</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/notifications</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/setup</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/features/sso</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/features/moderation</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/features/setup</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/features/notifications</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/features/wordpress</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/features/wordpress/using-comments</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/features/wordpress/wishlist</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
