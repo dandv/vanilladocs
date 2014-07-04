@@ -37,7 +37,7 @@
 <url> <loc>http://docs.vanillaforums.com/addons/groups/managing-groups</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/pockets</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/ranks/adding-and-editing-ranks</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/ranks/applying-ranks-over sso</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://docs.vanillaforums.com/addons/ranks/applying-ranks-over-sso</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/ranks</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-as-incentives</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-to-defeat-spam-or-abuse</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
