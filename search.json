@@ -169,7 +169,9 @@
   }, {
     "url": "/features",
     "title": "Features",
-    "categories": [],
+    "categories": [
+      "Features"
+    ],
     "content": "##%20Features%20Overview%0A%0AThis%20section%20focuses%20on%20the%20perspective%20of%20members,%20moderators,%20and%20administrators%20in%20their%20daily%20use%20of%20Vanilla.%20It%20includes%20lots%20of%20tutorials%20and%20tips%20for%20getting%20the%20most%20out%20of%20Vanilla.%20Use%20it%20to%20learn%20more%20about%20what%20is%20possible%20with%20Vanilla%20and%20to%20setup%20your%20new%20forum%20in%20a%20way%20that%20best%20suits%20your%20unique%20community."
   }, {
     "url": "/theming/css",
