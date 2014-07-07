@@ -620,14 +620,6 @@
     ],
     "content": ""
   }, {
-    "url": "/features/sso",
-    "title": "Single Sign-On",
-    "categories": [
-      "Features", 
-      "Single Sign-On"
-    ],
-    "content": "##%20Single%20Sign-On%20Overview"
-  }, {
     "url": "/features/setup",
     "title": "Setting Up Your New Forum",
     "categories": [
@@ -635,6 +627,14 @@
       "Setup"
     ],
     "content": "##%20Welcome%20to%20Vanilla"
+  }, {
+    "url": "/features/sso",
+    "title": "Single Sign-On",
+    "categories": [
+      "Features", 
+      "Single Sign-On"
+    ],
+    "content": "##%20Single%20Sign-On%20Overview"
   }, {
     "url": "/features/wordpress",
     "title": "WordPress Integration",
