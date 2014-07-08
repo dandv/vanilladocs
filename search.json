@@ -697,6 +697,13 @@
     ],
     "content": "##%20Function:%20%60%7Bt%7D%60%0A%0A%60%60%60%0A%7Bt%20c=%22string%22%20d=%22string%22%7D%0A%60%60%60%0A%0AOutput%20a%20translatable%20string%20with%20an%20optional%20default.%0A%0A###%20Parameters%0A%0AParameter%20%20%20%7C%20Type%20%20%20%20%20%20%7C%20Default%20%20%20%7C%20Description%0A---%20%20%20%20%20%20%20%20%20%7C%20---%20%20%20%20%20%20%20%7C%20---%20%20%20%20%20%20%20%7C%20---%0A__%60c%60__%20%20%20%20%20%7C%20%60string%60%20%20%7C%20none%20%20%20%20%20%20%7C%20The%20string%20to%20output%20or%20a%20string%20short-name%0A%60d%60%20%20%20%20%20%20%20%20%20%7C%20%60string%60%20%20%7C%20%60$c%60%20%20%20%20%20%20%7C%20Default%20translation.%20Good%20idea%20to%20set%20when%20using%20short-names"
   }, {
+    "url": "/theming/smarty",
+    "title": "Smarty",
+    "categories": [
+      "Theming"
+    ],
+    "content": "##%20Smarty%20Overview"
+  }, {
     "url": "/theming/smarty/link",
     "title": "{link}",
     "categories": [
@@ -704,13 +711,6 @@
       "Smarty"
     ],
     "content": "##%20Function:%20%60%7Blink%7D%60%0A%0A%60%60%60%0A%7Blink%20path=%22string%22%20text=%22string%22%20notag=boolean%20format=%22string%22%20withdomain=boolean%7D%0A%60%60%60%0A%0ATakes%20a%20route%20and%20prepends%20the%20web%20root%20(expects%20%60/controller/action/params%60%20as%20%60path%60).%0A%0A###%20Parameters%0A%0AParameter%20%20%20%20%20%20%20%7C%20Type%20%20%20%20%20%20%7C%20Default%20%20%20%7C%20Description%0A---%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%20---%20%20%20%20%20%20%20%7C%20---%20%20%20%20%20%20%20%7C%20---%0A__%60path%60__%20%20%20%20%20%20%7C%20%60string%60%20%20%7C%20none%20%20%20%20%20%20%7C%20The%20relative%20path%20for%20the%20url.%20There%20are%20some%20special%20paths%20that%20can%20be%20used%20to%20return%20%22intelligent%22%20links%0A%60text%60%20%20%20%20%20%20%20%20%20%20%7C%20%60string%60%20%20%7C%20none%20%20%20%20%20%20%7C%20HTML%20text%20to%20be%20put%20inside%20an%20anchor.%20If%20this%20value%20is%20set%20then%20an%20HTML%20%60%3Ca%3E%3C/a%3E%60%20is%20returned%20rather%20than%20just%20a%20url%0A%60notag%60%20%20%20%20%20%20%20%20%20%7C%20%60boolean%60%20%7C%20%60false%60%20%20%20%7C%20Whether%20or%20not%20the%20output%20should%20be%20wrapped%20in%20a%20tag%20or%20just%20be%20a%20URL%0A%60format%60%20%20%20%20%20%20%20%20%7C%20%60string%60%20%20%7C%20none%20%20%20%20%20%20%7C%20Custom%20format%20to%20use%20when%20wrapping%20links.%20Available%20template%20variables%20are%20%60%25url%60,%20%60%25class%60,%20and%20%60%25text%60%0A%60withdomain%60%20%20%20%20%7C%20%60boolean%60%20%7C%20%60false%60%20%20%20%7C%20Whether%20or%20not%20to%20prepend%20the%20base%20(%60http://your-forums.com/%60)%20URL%20to%20the%20outputted%20link%0A%0A###%20Intelligent%20Links"
-  }, {
-    "url": "/theming/smarty",
-    "title": "Smarty",
-    "categories": [
-      "Theming"
-    ],
-    "content": "##%20Smarty%20Overview"
   }, {
     "url": "/theming/smarty/logo",
     "title": "{logo}",
