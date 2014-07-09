@@ -1,190 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://docs.vanillaforums.com/api</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/badges/adding-and-editing-badges</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/ranks/adding-and-editing-ranks</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/reactions/adding-and-editing-reactions</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/adding-and-editing-user-notes</loc>
+    <loc>http://docs.vanillaforums.com/</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/addons</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/addons/ranks/applying-ranks-over-sso</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/assets</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/ajax</loc>
-  </url>
-  <url>
     <loc>http://docs.vanillaforums.com/addons/badges</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/developers/importing/build</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/api/categories</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/features/categories</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/changelog</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/cloud</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/contributing/coding-standard</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/api/comments</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/configuration</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/contributing</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/controllers</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/reactions/curating-with-reactions</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/database</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/tools</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/community</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/api/discussions</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/dispatcher</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/features/embedding</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/features</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/api/forum-administration</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/gigya</loc>
+    <loc>http://docs.vanillaforums.com/addons/badges/adding-and-editing-badges</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/addons/badges/giving-and-requesting-badges</loc>
   </url>
   <url>
+    <loc>http://docs.vanillaforums.com/addons/gigya</loc>
+  </url>
+  <url>
     <loc>http://docs.vanillaforums.com/addons/groups</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/helpers</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/importing</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/inform</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/installation</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/cloud/integration</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/i18n</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/pockets</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/locales</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/addons/groups/managing-groups</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/cloud/migration</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/features/mobile</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/models</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/api/moderation</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/features/moderation</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/modules</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/features/notifications</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/permissions</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/plugins/quickstart</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/plugins</loc>
+    <loc>http://docs.vanillaforums.com/addons/pockets</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/addons/ranks</loc>
   </url>
   <url>
+    <loc>http://docs.vanillaforums.com/addons/ranks/adding-and-editing-ranks</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/ranks/applying-ranks-over-sso</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-as-incentives</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-to-defeat-spam-or-abuse</loc>
+  </url>
+  <url>
     <loc>http://docs.vanillaforums.com/addons/reactions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/reactions/adding-and-editing-reactions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/reactions/curating-with-reactions</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/addons/reporting</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/cloud/repo</loc>
+    <loc>http://docs.vanillaforums.com/addons/statistics</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/features/setup</loc>
+    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/cloud/ssl</loc>
+    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/adding-and-editing-user-notes</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/features/sso</loc>
+    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/upgrading-from-warnings</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/warning-a-user</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/categories</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/comments</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/discussions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/forum-administration</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/moderation</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/api/smart-id</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/theming/smarty</loc>
+    <loc>http://docs.vanillaforums.com/cloud</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/integration</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/migration</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/repo</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/ssl</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/cloud/staging</loc>
@@ -193,7 +112,130 @@
     <loc>http://docs.vanillaforums.com/cloud/support</loc>
   </url>
   <url>
+    <loc>http://docs.vanillaforums.com/cloud/theming</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/changelog</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/community</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/configuration</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/configuration/using</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/contributing</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/contributing/coding-standard</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/ajax</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/assets</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/controllers</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/database</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/dispatcher</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/helpers</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/i18n</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/inform</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/models</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/modules</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/permissions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/views</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/importing</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/importing/build</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/importing/porter</loc>
+  </url>
+  <url>
     <loc>http://docs.vanillaforums.com/developers/importing/support</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/installation</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/locales</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/plugins</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/plugins/quickstart</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/tools</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/troubleshooting</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/categories</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/embedding</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/mobile</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/moderation</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/notifications</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/setup</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/sso</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/wordpress</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/wordpress/using-comments</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/wordpress/wishlist</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/theming</loc>
@@ -208,52 +250,7 @@
     <loc>http://docs.vanillaforums.com/theming/quickstart</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/cloud/theming</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/theming/views</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/troubleshooting</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/upgrading-from-warnings</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/features/wordpress/using-comments</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-as-incentives</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-to-defeat-spam-or-abuse</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/configuration/using</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/importing/porter</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/statistics</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/views</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/warning-a-user</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/features/wordpress/wishlist</loc>
-  </url>
-  <url>
-    <loc>http://docs.vanillaforums.com/features/wordpress</loc>
+    <loc>http://docs.vanillaforums.com/theming/smarty</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/theming/smarty/asset</loc>
@@ -266,6 +263,9 @@
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/theming/smarty/event</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/i18n</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/theming/smarty/link</loc>
@@ -289,6 +289,6 @@
     <loc>http://docs.vanillaforums.com/theming/smarty/text</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/theming/smarty/i18n</loc>
+    <loc>http://docs.vanillaforums.com/theming/views</loc>
   </url>
 </urlset>
