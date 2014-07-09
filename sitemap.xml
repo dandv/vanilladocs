@@ -34,10 +34,10 @@
     <loc>http://docs.vanillaforums.com/developers/importing/build</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/features/categories</loc>
+    <loc>http://docs.vanillaforums.com/api/categories</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/api/categories</loc>
+    <loc>http://docs.vanillaforums.com/features/categories</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/developers/changelog</loc>
@@ -139,10 +139,10 @@
     <loc>http://docs.vanillaforums.com/developers/framework/models</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/features/moderation</loc>
+    <loc>http://docs.vanillaforums.com/api/moderation</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/api/moderation</loc>
+    <loc>http://docs.vanillaforums.com/features/moderation</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/developers/framework/modules</loc>
