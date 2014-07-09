@@ -1,100 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url> <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/warning-a-user</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/api/categories</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/api/comments</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/api/discussions</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/api/forum-administration</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/api</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/api/moderation</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/api/smart-id</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/cloud</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/cloud/integration</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/cloud/migration</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/cloud/repo</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/cloud/ssl</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/cloud/staging</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/cloud/support</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/cloud/theming</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/changelog</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/community</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/installation</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/locales</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/tools</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/css</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/hooks</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/quickstart</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/views</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/badges/adding-and-editing-badges</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/badges/giving-and-requesting-badges</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/badges</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/gigya</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/groups</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/groups/managing-groups</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/pockets</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/ranks/adding-and-editing-ranks</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/ranks/applying-ranks-over-sso</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/ranks</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-as-incentives</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-to-defeat-spam-or-abuse</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/reactions/curating-with-reactions</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/reactions</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/reporting</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/statistics</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/adding-and-editing-user-notes</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/warnings-and-notes</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/upgrading-from-warnings</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/configuration</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/configuration/using</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/contributing/coding-standard</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/contributing</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/ajax</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/assets</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/controllers</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/database</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/dispatcher</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/helpers</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/i18n</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/inform</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/models</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/modules</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/permissions</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/framework/views</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/importing/build</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/importing</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/importing/porter</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/importing/support</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/plugins</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/plugins/quickstart</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/developers/troubleshooting</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/categories</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/embedding</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/mobile</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/moderation</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/notifications</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/setup</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/sso</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/wordpress</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/wordpress/using-comments</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/features/wordpress/wishlist</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/asset</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/breadcrumbs</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/custom-menu</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/event</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/i18n</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/link</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/logo</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/mobile-logo</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/permission</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/pocket</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/searchbox</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/theming/smarty/text</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://docs.vanillaforums.com/addons/reactions/adding-and-editing-reactions</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/badges/adding-and-editing-badges</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/ranks/adding-and-editing-ranks</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/reactions/adding-and-editing-reactions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/adding-and-editing-user-notes</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/ranks/applying-ranks-over-sso</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/assets</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/ajax</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/badges</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/importing/build</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/categories</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/categories</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/changelog</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/contributing/coding-standard</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/comments</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/configuration</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/contributing</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/controllers</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/reactions/curating-with-reactions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/database</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/tools</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/community</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/discussions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/dispatcher</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/embedding</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/forum-administration</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/gigya</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/badges/giving-and-requesting-badges</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/groups</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/helpers</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/importing</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/inform</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/installation</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/integration</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/i18n</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/pockets</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/locales</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/groups/managing-groups</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/migration</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/mobile</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/models</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/moderation</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/moderation</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/modules</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/notifications</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/permissions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/plugins/quickstart</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/plugins</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/ranks</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/reactions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/reporting</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/repo</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/setup</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/ssl</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/sso</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/api/smart-id</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/staging</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/support</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/importing/support</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/css</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/hooks</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/quickstart</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/cloud/theming</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/views</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/troubleshooting</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/upgrading-from-warnings</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/wordpress/using-comments</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-as-incentives</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/ranks/using-ranks-to-defeat-spam-or-abuse</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/configuration/using</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/importing/porter</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/statistics</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/views</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes/warning-a-user</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/addons/warnings-and-notes</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/wordpress/wishlist</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/features/wordpress</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/asset</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/breadcrumbs</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/custom-menu</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/event</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/link</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/logo</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/mobile-logo</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/permission</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/pocket</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/searchbox</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/text</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/theming/smarty/i18n</loc>
+  </url>
 </urlset>
