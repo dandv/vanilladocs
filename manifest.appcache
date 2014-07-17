@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Time: Thu Jul 17 2014 15:10:26 GMT+0000 (UTC)
+# Time: Thu Jul 17 2014 21:44:40 GMT+0000 (UTC)
 
 CACHE:
 addons/badges/adding-and-editing-badges/index.html
@@ -102,8 +102,8 @@ theming/views/index.html
 addons/reactions/adding-and-editing-reactions/images/reactions-advanced.png
 addons/reactions/adding-and-editing-reactions/images/reactions-list.png
 addons/statistics/images/dashboard.png
-assets/1b8e46a1.main.js
 assets/3b1e8dde.main.css
+assets/f7039dae.main.js
 assets/img/9bdefa97.logo.svg
 search.json
 
