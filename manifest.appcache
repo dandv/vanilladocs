@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Time: Thu Jul 17 2014 23:48:37 GMT+0000 (UTC)
+# Time: Fri Jul 18 2014 00:21:49 GMT+0000 (UTC)
 
 CACHE:
 addons/badges/adding-and-editing-badges/index.html
@@ -99,13 +99,13 @@ theming/smarty/pocket/index.html
 theming/smarty/searchbox/index.html
 theming/smarty/text/index.html
 theming/views/index.html
-addons/reactions/adding-and-editing-reactions/images/reactions-advanced.png
-addons/reactions/adding-and-editing-reactions/images/reactions-list.png
-addons/statistics/images/dashboard.png
 assets/img/logo.9bdefa97.svg
 assets/main.3b1e8dde.css
 assets/main.f7039dae.js
-search.88fdd39a.json
+images/dashboard.3f30aed4.png
+images/reactions-advanced.e0190d93.png
+images/reactions-list.6546274d.png
+search.1dd9b6c9.json
 
 NETWORK:
 *
