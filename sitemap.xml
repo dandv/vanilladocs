@@ -139,9 +139,6 @@
     <loc>http://docs.vanillaforums.com/developers/framework</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/ajax</loc>
-  </url>
-  <url>
     <loc>http://docs.vanillaforums.com/developers/framework/assets</loc>
   </url>
   <url>
@@ -151,7 +148,10 @@
     <loc>http://docs.vanillaforums.com/developers/framework/database</loc>
   </url>
   <url>
-    <loc>http://docs.vanillaforums.com/developers/framework/dispatcher</loc>
+    <loc>http://docs.vanillaforums.com/developers/framework/datasets</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/forms</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/developers/framework/helpers</loc>
@@ -170,6 +170,9 @@
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/developers/framework/permissions</loc>
+  </url>
+  <url>
+    <loc>http://docs.vanillaforums.com/developers/framework/requests</loc>
   </url>
   <url>
     <loc>http://docs.vanillaforums.com/developers/framework/views</loc>
