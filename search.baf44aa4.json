@@ -403,7 +403,7 @@
       "Developers", 
       "Framework"
     ],
-    "content": ""
+    "content": "##%20Datasets"
   }, {
     "url": "/developers/framework/events",
     "title": "Events",
@@ -419,7 +419,7 @@
       "Developers", 
       "Framework"
     ],
-    "content": ""
+    "content": "##%20Forms%0A%0A%0A##%20Validation"
   }, {
     "url": "/developers/framework/helpers",
     "title": "Helpers",
