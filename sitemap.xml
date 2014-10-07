@@ -91,6 +91,9 @@
     <loc>http://docs.vanillaforums.com/api/moderation</loc>
   </url>
   <url>
+    <loc>http://docs.vanillaforums.com/api/site-hub</loc>
+  </url>
+  <url>
     <loc>http://docs.vanillaforums.com/api/smart-id</loc>
   </url>
   <url>
