@@ -38,3 +38,9 @@ Requires conversion to MySQL first. Try the [dbdump tool](https://github.com/tbu
 ### mbox-formatted mailing lists
 
 Mailbox imports are very complicated, but allow importing of email libraries (like a listserv). See its comments at the top of its package file.
+
+### Feature matrix
+
+As of v2.1.9, the importer supports the following:
+
+![image](https://cloud.githubusercontent.com/assets/33569/7084541/357d1fae-df23-11e4-9059-52ea8b44eb18.png)
